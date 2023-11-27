@@ -1,0 +1,14 @@
+/home/matheus/Programming/cs/01_Introduction/obj/Debug/net8.0/01_Introduction.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/Programming/cs/01_Introduction/obj/Debug/net8.0/01_Introduction.AssemblyInfoInputs.cache
+/home/matheus/Programming/cs/01_Introduction/obj/Debug/net8.0/01_Introduction.AssemblyInfo.cs
+/home/matheus/Programming/cs/01_Introduction/obj/Debug/net8.0/01_Introduction.csproj.CoreCompileInputs.cache
+/home/matheus/Programming/cs/01_Introduction/bin/Debug/net8.0/01_Introduction
+/home/matheus/Programming/cs/01_Introduction/bin/Debug/net8.0/01_Introduction.deps.json
+/home/matheus/Programming/cs/01_Introduction/bin/Debug/net8.0/01_Introduction.runtimeconfig.json
+/home/matheus/Programming/cs/01_Introduction/bin/Debug/net8.0/01_Introduction.dll
+/home/matheus/Programming/cs/01_Introduction/bin/Debug/net8.0/01_Introduction.pdb
+/home/matheus/Programming/cs/01_Introduction/obj/Debug/net8.0/01_Introduction.dll
+/home/matheus/Programming/cs/01_Introduction/obj/Debug/net8.0/refint/01_Introduction.dll
+/home/matheus/Programming/cs/01_Introduction/obj/Debug/net8.0/01_Introduction.pdb
+/home/matheus/Programming/cs/01_Introduction/obj/Debug/net8.0/01_Introduction.genruntimeconfig.cache
+/home/matheus/Programming/cs/01_Introduction/obj/Debug/net8.0/ref/01_Introduction.dll
